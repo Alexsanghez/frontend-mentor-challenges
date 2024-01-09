@@ -26,7 +26,7 @@ The folder structure of the original challenge was slightly changed for order mo
 ### Links
 
 - Solution URL: [Github](https://github.com/Alexsanghez/frontend-mentor-challenges/tree/main/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://frontend-mentor-challenges-rax5dj1fx-alex-sanghezs-projects.vercel.app/)
 
 ## My process
 
